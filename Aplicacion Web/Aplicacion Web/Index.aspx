@@ -12,6 +12,7 @@
     <div>
     <h4>Hola Mundo</h4>
         <p>Contenido del sitio</p>
+        <asp:Button ID="Button1" runat="server" Text="Button" />
     </div>
     </form>
 </body>
